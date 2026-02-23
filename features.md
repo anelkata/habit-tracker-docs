@@ -50,3 +50,12 @@
 | Prompt to reevaluate goal afer goal badge | N | Y |
 | Configurable points per badge | Y | Y |
 
+## UI
+| Feature | MVP | Ideal |
+|----------|----------|----------|
+| Monthly view (main tracking view) | Y | Y |
+| Yearly view | N | Y |
+| Last N days/weeks/months/years views | N | Y |
+| Lifetime view | N | Y |
+| Single habit view (configuration view) | Y | Y |
+| Monthly view configuration wizard (includes configuring categories, sections, etc.) | Y | Y |
