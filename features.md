@@ -1,5 +1,5 @@
-#Feature list 
-##Users
+# Feature list 
+## Users
 | Feature | MVP | Ideal |
 |----------|----------|----------|
 | Log in with usrename and password (native) | Y | Y |
@@ -11,7 +11,7 @@
 | Paid/Free versions | N | Y |
 | Sharing with other users (reports) | N | Y |
 
-##Habits
+## Habits
 | Feature | MVP | Ideal |
 |----------|----------|----------|
 | Binary habits (daily entries with y/n) | Y | Y |
@@ -26,7 +26,7 @@
 | Colors per group (category/topic, habit color priority)
 | Day shape per habit | N | Y |
 
-##Streaks
+## Streaks
 | Feature | MVP | Ideal |
 |----------|----------|----------|
 | Times per calendar day/week/month/year | Y | Y |
@@ -38,7 +38,7 @@
 | Streaks for badges | Y | Y |
 | Freeze streak | N | Y |
 
-Rewards
+## Rewards
 | Feature | MVP | Ideal |
 |----------|----------|----------|
 | Dayly badges | Y | Y |
