@@ -59,3 +59,12 @@
 | Lifetime view | N | Y |
 | Single habit view (configuration view) | Y | Y |
 | Monthly view configuration wizard (includes configuring categories, sections, etc.) | Y | Y |
+
+## Future modules
+| Feature | MVP | Ideal |
+|----------|----------|----------|
+| Mood tracking | N | Y |
+| Journal | N | Y |
+| Cross-module reporting | N | Y |
+| DB in Google Sheets | N | Y |
+| Reporting export in XLS | N | Y |
