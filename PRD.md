@@ -1,18 +1,3 @@
-Below is a **blank, LLM-parseable PRD template** designed specifically for generating architecture and implementation prompts for Codex or other coding LLMs.
-
-It is:
-
-* Structured
-* Explicit
-* Machine-readable
-* Section-labeled
-* Free of ambiguity
-* Easy to fill incrementally
-
-You can paste this into Codex as structured context.
-
----
-
 # PRODUCT REQUIREMENTS DOCUMENT (PRD)
 
 ---
@@ -20,7 +5,7 @@ You can paste this into Codex as structured context.
 ## 1. Product Overview
 
 **Product Name:**
-[Insert product name]
+My Habit Tracker
 
 **Product Type:**
 Web Application
@@ -354,75 +339,3 @@ Each requirement must be uniquely identifiable.
 * Question:
 * Question:
 * Question:
-
----
-
-# Instructions for Using This PRD with Codex
-
-When prompting Codex:
-
-1. Paste the filled PRD.
-2. Then ask:
-
-   * "Generate backend architecture based on this PRD."
-   * "Design normalized database schema."
-   * "Generate API contracts."
-   * "Generate frontend folder structure."
-   * "Write production-ready code for FR-02."
-
----
-
-If you want, I can now:
-
-* Provide a **filled example for a habit tracker MVP**
-* Or give you a **PRD optimized specifically for LLM-driven development**
-* Or generate a **technical architecture template that pairs with this PRD**
-
----
-
-You are a senior PHP developer.
-
-I want to build a web application with the following requirements:
-
-1. Tech stack:
-- Backend: PHP 8.x (no framework)
-- Database: MySQL
-- Frontend: HTML5 + CSS3 (no frameworks)
-- Minimal JavaScript (vanilla JS only)
-- Structure must be simple and beginner-friendly.
-
-2. Goal of the app:
-[Describe clearly what the app does.]
-
-3. Features:
-- Feature 1:
-- Feature 2:
-- Feature 3:
-
-4. Database:
-Please design the database schema first.
-Provide:
-- Table names
-- Columns
-- Data types
-- Relationships
-
-5. Project structure:
-Provide:
-- Folder structure
-- File names
-- Purpose of each file
-
-6. Code requirements:
-- Use PDO for database connection
-- Use prepared statements
-- Use basic input validation
-- Add comments explaining what each part does
-- Keep code readable and beginner-friendly
-
-7. Output format:
-Provide:
-- Step-by-step implementation
-- Full code for each file
-- Clear instructions where to paste each file
-- Instructions for running locally with XAMPP
